@@ -1,0 +1,126 @@
+{
+  "name": "GameRoad",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "ArcanaSystem": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/ArcanaSystem.lua"
+      },
+      "CardData": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/CardData.lua"
+      },
+      "CombiLogic": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/CombiLogic.lua"
+      },
+      "DinoSystem": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/DinoSystem.lua"
+      },
+      "SecurityValidator": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/SecurityValidator.lua"
+      },
+      "SetupRemotes_v2": {
+        "$className": "ModuleScript",
+        "$path": "ReplicatedStorage/SetupRemotes_v2.lua"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "AdminCommand": {
+        "$className": "Script",
+        "$path": "ServerScriptService/AdminCommand.lua"
+      },
+      "BattleRoyale_4p": {
+        "$className": "Script",
+        "$path": "ServerScriptService/BattleRoyale_4p.lua"
+      },
+      "BattleServer_v2": {
+        "$className": "Script",
+        "$path": "ServerScriptService/BattleServer_v2.lua"
+      },
+      "GachaSystem": {
+        "$className": "ModuleScript",
+        "$path": "ServerScriptService/GachaSystem.lua"
+      },
+      "Initializer": {
+        "$className": "Script",
+        "$path": "ServerScriptService/Initializer.lua"
+      },
+      "Matchmaking_v2": {
+        "$className": "Script",
+        "$path": "ServerScriptService/Matchmaking_v2.lua"
+      },
+      "PartnerAmieServer": {
+        "$className": "Script",
+        "$path": "ServerScriptService/PartnerAmieServer.lua"
+      },
+      "PartnerComfort": {
+        "$className": "Script",
+        "$path": "ServerScriptService/PartnerComfort.lua"
+      },
+      "PartnerSystem_v2": {
+        "$className": "Script",
+        "$path": "ServerScriptService/PartnerSystem_v2.lua"
+      },
+      "QuestSystem": {
+        "$className": "Script",
+        "$path": "ServerScriptService/QuestSystem.lua"
+      },
+      "RatingSystem": {
+        "$className": "Script",
+        "$path": "ServerScriptService/RatingSystem.lua"
+      },
+      "VoteSystem": {
+        "$className": "ModuleScript",
+        "$path": "ServerScriptService/VoteSystem.lua"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "BattleClient_v2": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/BattleClient_v2.lua"
+        },
+        "BattleSetUI": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/BattleSetUI.lua"
+        },
+        "CardDetailUI": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/CardDetailUI.lua"
+        },
+        "DeckEditUI": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/DeckEditUI.lua"
+        },
+        "EXPhaseClient": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/EXPhaseClient.lua"
+        },
+        "LoadingScreen": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/LoadingScreen.lua"
+        },
+        "PartnerAmie": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/PartnerAmie.lua"
+        },
+        "ReplayReviewUI": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/ReplayReviewUI.lua"
+        },
+        "TutorialSystem": {
+          "$className": "LocalScript",
+          "$path": "StarterPlayerScripts/TutorialSystem.lua"
+        }
+      }
+    }
+  }
+}
